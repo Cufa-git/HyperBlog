@@ -8,3 +8,5 @@ Un blog increible de mi aprendisaje del curso de Git y GitHub de platzi
 *El amor por las buenas practicas
 *Trucos de mas 
 *Creado por PlatziTeam
+*Incluye ejemplos en Windows, Linux y Mac
+*Disponible para todas las edades
